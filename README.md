@@ -7,7 +7,7 @@ Passo-a-Passo curso de JPA:
 
 3º Configurar o arquivos "persistence.xml" com as tags da JPA e do Hibernate.
 
-4º Configurar o arquivo "pom.xml" com as dependencias do banco de dados e do Hibernate.
+4º Configurar o arquivo "pom.xml" com as dependencias do banco de dados e do Hibernate e com o build do java.
 
 5º Criar uma entidade e mapear.
 
