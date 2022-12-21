@@ -11,6 +11,8 @@ Passo-a-Passo curso de JPA:
 
 5º Criar uma entidade e mapear.
 
+5.1 Persistir uma entidade usando classe de teste
+
 6º Persistir uma entidade no banco de dados, usando a dao e jpautil
 
 7º Mapear a entidade com um enum.
